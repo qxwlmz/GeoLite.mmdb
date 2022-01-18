@@ -14,11 +14,11 @@
 
 ### URL2
 
-[GeoLite2-ASN.mmdb](https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-ASN.mmdb)
+[GeoLite2-ASN.mmdb](https://github.com/qxwlmz/GeoLite.mmdb/raw/download/GeoLite2-ASN.mmdb)
 
-[GeoLite2-City.mmdb](https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-City.mmdb)
+[GeoLite2-City.mmdb](https://github.com/qxwlmz/GeoLite.mmdb/raw/download/GeoLite2-City.mmdb)
 
-[GeoLite2-Country.mmdb](https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-Country.mmdb)
+[GeoLite2-Country.mmdb](https://github.com/qxwlmz/GeoLite.mmdb/raw/download/GeoLite2-Country.mmdb)
 
 ## License
 
